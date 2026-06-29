@@ -2,8 +2,9 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #a4a4a4;
-  --border: #393939;
+  --foreground: #0a0a0a;
+  --border: #cccccc;
+  font-size: 10px;
 }
 
 @theme inline {
@@ -27,7 +28,7 @@
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
-    font-size: 10px;
+    --border: #cccccc;
   }
 }
 
